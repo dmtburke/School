@@ -1,0 +1,672 @@
+___________________________________________________________
+
+State:			AR
+City:			Nashville
+Last Name:		Jones
+First Name:		Keith
+Email:			keith@gmail.com
+Mobile Phone:		932-010-0300
+Company:		Google
+
+___________________________________________________________
+
+State:			AZ
+City:			Tolleson
+Last Name:		Fossum
+First Name:		Jerry
+Email:			jtfosser@live.com
+Mobile Phone:		932-734-3733
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			CA
+City:			City of Commerce
+Last Name:		Brown
+First Name:		Melvin
+Email:			melvinthedetsroyer@msn.com
+Mobile Phone:		932-192-9118
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			CA
+City:			San Diego
+Last Name:		Davis
+First Name:		Pam
+Email:			PamJDavis@inbound.plus
+Mobile Phone:		934-298-9301
+Company:		Griff's Hamburgers
+
+---Affiliates---
+First Name:		Holly
+Last Name:		Shields
+
+___________________________________________________________
+
+State:			CO
+City:			Denver
+Last Name:		Long
+First Name:		Kyle
+Email:			kylerthelongest@yahoo.com
+Mobile Phone:		033-394-2318
+Company:		Apple
+
+___________________________________________________________
+
+State:			CO
+City:			Edgewater
+Last Name:		Burke
+First Name:		Dalton
+Email:			dmtburke@gmail.com
+Mobile Phone:		720-365-5097
+Company:		UCDenver
+
+___________________________________________________________
+
+State:			CO
+City:			Mountain View
+Last Name:		Shultz
+First Name:		Michelle
+Email:			schultzin8r@yahoo.com
+Mobile Phone:		909-192-9912
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			CT
+City:			Wilton
+Last Name:		Lopez
+First Name:		Terra
+Email:			TerraJLopez@inbound.plus
+Mobile Phone:		934-238-1299
+Company:		Manning's Cafeterias
+
+---Affiliates---
+First Name:		Darley
+Last Name:		Manson
+Mobile Phone:		203-563-7857
+Email:			DarleyMManson@inbound.plus
+
+First Name:		Peyton
+Last Name:		Manning
+Mobile Phone:		934-239-1293
+
+___________________________________________________________
+
+State:			Ca
+City:			Irvine
+Last Name:		Cole
+First Name:		Mark
+Email:			rmarkcole@gmail.com
+Mobile Phone:		023-934-9210
+Company:		Microsoft
+
+---Affiliates---
+First Name:		Heather
+Last Name:		Turman
+Mobile Phone:		359-239-1229
+Email:			heathurman@yahoo.com
+
+First Name:		Jimmy
+Last Name:		Kimmel
+
+First Name:		Han
+Last Name:		Solo
+
+First Name:		Kylo
+Last Name:		Ren
+
+___________________________________________________________
+
+State:			FL
+City:			Lake Worth
+Last Name:		Stirling
+First Name:		Phillis
+Email:			philster@yahoo.com
+Mobile Phone:		323-923-1823
+Company:		Apple
+
+___________________________________________________________
+
+State:			FL
+City:			Punta Gorda
+Last Name:		Cannon
+First Name:		Gary
+Email:			GaryKCannon@inbound.plus
+Mobile Phone:		934-283-8213
+Company:		Vibrant Man
+
+---Affiliates---
+First Name:		Jim
+Last Name:		Jones
+
+First Name:		Alan
+Last Name:		Keys
+Mobile Phone:		934-383-9302
+
+___________________________________________________________
+
+State:			FL
+City:			Ft Lauderdale
+Last Name:		Ward
+First Name:		Mary
+Email:			wardmt@gmail.com
+Mobile Phone:		321-293-3339
+Company:		Apple
+
+___________________________________________________________
+
+State:			IL
+City:			Metropolis
+Last Name:		Rodriguez
+First Name:		Megan
+Email:			MeganR@gmail.com
+Mobile Phone:		934-238-1238
+Company:		Golden Joy
+
+---Affiliates---
+First Name:		Jimmy
+Last Name:		Morejon
+Mobile Phone:		930-2391-2938
+Email:			m.jimmy@ucdenver.edu
+
+___________________________________________________________
+
+State:			IL
+City:			Elgin
+Last Name:		Ramirez
+First Name:		Daniel
+Email:			ramdanr@live.com
+Mobile Phone:		319-219-5282
+Company:		Microsoft
+
+---Affiliates---
+First Name:		Ned
+Last Name:		Stark
+
+First Name:		Jon
+Last Name:		Snow
+
+___________________________________________________________
+
+State:			IN
+City:			Fort Wayne
+Last Name:		Brown
+First Name:		Susan
+Email:			susebrown@gmail.com
+Mobile Phone:		532-325-3250
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			IN
+City:			Colombus
+Last Name:		Hutchens
+First Name:		Joy
+Email:			joyousw@gmail.com
+Mobile Phone:		932-939-1238
+Company:		Google.com
+
+___________________________________________________________
+
+State:			IN
+City:			Fort Wayne
+Last Name:		Tinoco
+First Name:		Elizabeth
+Email:			ElizabethRTinoco@inbound.plus
+Mobile Phone:		993-923-1239
+Company:		Earl Abel's
+
+___________________________________________________________
+
+State:			KY
+City:			Gage
+Last Name:		Parkey
+First Name:		Donnie
+Email:			dpark@apple.com
+Mobile Phone:		932-923-934
+Company:		Apple
+
+---Affiliates---
+First Name:		Nina
+Last Name:		Valdez
+Mobile Phone:		934-921-9921
+Email:			ninav@hotmail.com
+
+First Name:		horace
+Last Name:		valdez
+
+___________________________________________________________
+
+State:			MA
+City:			Boston
+Last Name:		Branton
+First Name:		Angela
+Email:			wbranang@hotmail.com
+Mobile Phone:		253-582-9921
+Company:		Apple
+
+___________________________________________________________
+
+State:			MD
+City:			Hanover
+Last Name:		Wheeler
+First Name:		Susan
+Email:			SusanCWheeler@inbound.plus
+Mobile Phone:		983-282-1263
+Company:		First Rate Choice
+
+---Affiliates---
+First Name:		Maven
+Last Name:		Greenwood
+Mobile Phone:		653-283-4829
+Email:			MavenCGreenwood@inbound.plus
+
+First Name:		Ginny
+Last Name:		Wheeler
+Mobile Phone:		931-934-9856
+
+___________________________________________________________
+
+State:			MI
+City:			Troy
+Last Name:		Watts
+First Name:		Linda
+Email:			wattsamatter@live.com
+Mobile Phone:		340-394-9191
+Company:		Google
+
+---Affiliates---
+First Name:		Perri
+Last Name:		Winkle
+Mobile Phone:		930-983-8532
+Email:			pwinx@yahoo.com
+
+___________________________________________________________
+
+State:			MI
+City:			Okemos
+Last Name:		Haviland
+First Name:		Alpha
+Email:			neverbeta@gmail.com
+Mobile Phone:		230-288-1212
+Company:		Microsoft
+
+---Affiliates---
+First Name:		Earl
+Last Name:		Grew
+Mobile Phone:		392-387-2375
+Email:			erlgreii@gmail.com
+
+First Name:		Ben
+Last Name:		Kenobi
+Mobile Phone:		392-292-9112
+Email:			usetheforce@hotmail.com
+
+___________________________________________________________
+
+State:			MN
+City:			Stillwater
+Last Name:		White
+First Name:		Gertrude
+Email:			gurdywhite@live.com
+Mobile Phone:		392-238-1228
+Company:		Google
+
+---Affiliates---
+First Name:		Meryl
+Last Name:		Streep
+Mobile Phone:		392-263-4694
+
+___________________________________________________________
+
+State:			MO
+City:			Sikeston
+Last Name:		Michael
+First Name:		Kristi
+Email:			KRmichael@yahoo.com
+Mobile Phone:		395-399
+Company:		Google
+
+___________________________________________________________
+
+State:			MO
+City:			Kansas City
+Last Name:		Landry
+First Name:		Albert
+Email:			dryland@live.com
+Mobile Phone:		923-188-9963
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			NC
+City:			Harmony
+Last Name:		Solis
+First Name:		Jacque
+Email:			jacssol@gmail.com
+Mobile Phone:		325-952-2391
+Company:		Apple
+
+___________________________________________________________
+
+State:			NC
+City:			Charlotte
+Last Name:		Holt
+First Name:		Kisha
+Email:			holtonaminute@gmail.com
+Mobile Phone:		235-128-8325
+Company:		Google
+
+___________________________________________________________
+
+State:			NJ
+City:			Branchburg
+Last Name:		Gilley
+First Name:		Melissa
+Email:			MelissaTGilley@inbound.plus
+Mobile Phone:		933-932-9239
+Company:		Gov Mart
+
+___________________________________________________________
+
+State:			NY
+City:			New York
+Last Name:		Miller
+First Name:		Armand
+Email:			armiller@gmail.com
+Mobile Phone:		932-993-6234
+Company:		Microsoft
+
+---Affiliates---
+First Name:		Jonah
+Last Name:		Hill
+Mobile Phone:		399-353-9198
+Email:			jhilster@hotmail.com
+
+First Name:		Stan
+Last Name:		Marsh
+Mobile Phone:		388-359-3922
+Email:			cremefraiche@live.com
+
+___________________________________________________________
+
+State:			NY
+City:			Long Island City
+Last Name:		Sever
+First Name:		Vilma
+Email:			vsever@apple.com
+Mobile Phone:		939-929-1112
+Company:		Google
+
+---Affiliates---
+First Name:		Jason
+Last Name:		Bourne
+Mobile Phone:		399-992-1128
+Email:			ultimatumtatum@gmail.com
+
+First Name:		Valeera
+Last Name:		Sanguinar
+Mobile Phone:		800-588-2300
+Email:			incredible@gmail.com
+
+___________________________________________________________
+
+State:			NY
+City:			New York
+Last Name:		Madsen
+First Name:		Beulah
+Email:			Bmadsen@msn.com
+Mobile Phone:		325-329-2399
+Company:		654 Clark Street
+
+___________________________________________________________
+
+State:			NY
+City:			Queens
+Last Name:		Brenton
+First Name:		Mark
+Email:			mbrenton@live.com
+Mobile Phone:		394-239-9210
+Company:		Microsoft
+
+---Affiliates---
+First Name:		Cindy
+Last Name:		Brenton
+
+First Name:		Alice
+Last Name:		Brenton
+
+First Name:		Allan
+Last Name:		Brenton
+Mobile Phone:		939-919-9384
+Email:			abrenton@gmail.com
+
+First Name:		Michael
+Last Name:		Meyers
+
+___________________________________________________________
+
+State:			NY
+City:			New York
+Last Name:		Alvarez
+First Name:		Karen
+Email:			alvaka@hotmail.com
+Mobile Phone:		322-921-8558
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			NY
+City:			Colonie
+Last Name:		Hofstetter
+First Name:		Michael
+Email:			mikehfst@gmail.com
+Mobile Phone:		432-192-9581
+Company:		Google
+
+---Affiliates---
+First Name:		Michael
+Last Name:		Jackson
+
+First Name:		Janett
+Last Name:		Jackson
+
+___________________________________________________________
+
+State:			OH
+City:			Canton
+Last Name:		Bartlett
+First Name:		Kimberly
+Email:			kimabar@live.com
+Mobile Phone:		930-213-1283
+Company:		Google
+
+---Affiliates---
+First Name:		Lane
+Last Name:		Bryant
+Mobile Phone:		242-122-8522
+
+First Name:		Dawn
+Last Name:		Caruana
+
+___________________________________________________________
+
+State:			OH
+City:			Cincinatti
+Last Name:		Salas
+First Name:		Travis
+Email:			TravisTSalas@inbound.plus
+Mobile Phone:		934-293-9234
+Company:		Total Serve
+
+___________________________________________________________
+
+State:			PA
+City:			Altoona
+Last Name:		Loggins
+First Name:		Charles
+Email:			clawg@apple.com
+Mobile Phone:		394-293-2193
+Company:		Apple
+
+---Affiliates---
+First Name:		Kenny
+Last Name:		Loggins
+
+First Name:		Hugo
+Last Name:		Chavez
+Mobile Phone:		394-293-9919
+Email:			HCkilt@gmail.com
+
+___________________________________________________________
+
+State:			PA
+City:			Pittsburgh
+Last Name:		Marshall
+First Name:		Charlie
+Email:			Charlie@rickel.com
+Mobile Phone:		930-302-2939
+Company:		Rickel
+
+---Affiliates---
+First Name:		Hillary
+Last Name:		Rubino
+
+First Name:		Jimmy
+Last Name:		Rubino
+Mobile Phone:		934-287-8324
+
+___________________________________________________________
+
+State:			RI
+City:			Providence
+Last Name:		Garcia
+First Name:		Jacquelline
+Email:			jacjgar@gmail.com
+Mobile Phone:		359-328-1229
+Company:		Google
+
+___________________________________________________________
+
+State:			TN
+City:			Nashville
+Last Name:		West
+First Name:		James
+Email:			jamswest@hotmail.com
+Mobile Phone:		325-128-3953
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			TN
+City:			Chattanooga
+Last Name:		Wright
+First Name:		Rose
+Email:			roseisalwayswright@yahoo.com
+Mobile Phone:		990-152-2232
+Company:		Apple
+
+___________________________________________________________
+
+State:			TN
+City:			Nashville
+Last Name:		Morgan
+First Name:		Amber
+Email:			Ambsmorg@yahoo.co
+Mobile Phone:		253-395-9229
+Company:		Apple
+
+---Affiliates---
+First Name:		Hannibal
+Last Name:		Lecter
+Mobile Phone:		325-182-3511
+Email:			idlovetohaveyoufordinner@hotmail.com
+
+___________________________________________________________
+
+State:			TN
+City:			Knoxville
+Last Name:		Kelley
+First Name:		Ronald
+Email:			imnotcomingoutthecloset@hotmail.com
+Mobile Phone:		832-929-9352
+Company:		Apple
+
+---Affiliates---
+First Name:		Drake
+Last Name:		Graham
+Mobile Phone:		1-800-HOTLINEBLING
+Email:			directorx@hotmail.com
+
+___________________________________________________________
+
+State:			TX
+City:			San Marcos
+Last Name:		Tavera
+First Name:		Earnest
+Email:			etavera@gmail.com
+Mobile Phone:		923-939-9125
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			TX
+City:			Midland
+Last Name:		Oneal
+First Name:		Sandra
+Email:			SConeal@live.com
+Mobile Phone:		399-819-5323
+Company:		Google
+
+___________________________________________________________
+
+State:			TX
+City:			Arlington
+Last Name:		Price
+First Name:		Robert
+Email:			thepriceisright@gmail.com
+Mobile Phone:		509-129-9912
+Company:		Microsoft
+
+___________________________________________________________
+
+State:			TX
+City:			San Antonio
+Last Name:		Sawyer
+First Name:		Melissa
+Email:			msawyer@hotmail.com
+Mobile Phone:		932-834-2212
+Company:		Apple
+
+___________________________________________________________
+
+State:			WA
+City:			Everett
+Last Name:		Hove
+First Name:		Barbara
+Email:			barbhovem@yahoo.com
+Mobile Phone:		512-125-9819
+Company:		Apple
+
+___________________________________________________________
+
+State:			WI
+City:			Madison
+Last Name:		Porter
+First Name:		Florence
+Email:			porterihardlyknowher@gmail.com
+Mobile Phone:		992-9199-5233
+Company:		2989 Lauren Drive
+
+___________________________________________________________
+
+State:			WV
+City:			Wallace
+Last Name:		Lemmon
+First Name:		Patricia
+Email:			whenlifegivesyoulemmons@msn.com
+Mobile Phone:		392-881-8539
+Company:		Apple
+

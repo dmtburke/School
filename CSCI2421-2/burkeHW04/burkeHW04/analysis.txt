@@ -1,0 +1,11 @@
+Dalton Burke
+Analysis.txt
+Contains partial asymptotic analysis of member functions used in MyVector class
+
+operator[] : First, an if statement which is 2 operations worst case, then a declaration, 1 operation, then a for loop. Inside the for loop, i is set to zero once then up to n times i is incremented and compared to another value, 2n. Then, an if statement with 2 operations worst case. There are 2n + 2 operations in the loop worst case, and the loop if run at worst case will go up to n times, and a return statement after. We have 2 + 1 + 1 + n*(2 + 2) + 1 = 4n + 5 So, operator[] runs with complexity O(n).
+
+pop_back : pop_back I reimplemented because the one I was given didn't work. First, two declarations, and a while loop which will compare n times and do two operations. After that, an if statement with two operations, a delete call and an incrementing of a variable. That's 2 + n*(2) + 2 + 1 + 1 = 2n + 6. So, pop_back runs with complexity O(n).
+
+push_back : Assuming worst case, the function will always go to the else statement since there are more operations there. So, first we get a comparison in the if, then we go to the else and there is a declaration and a while loop which goes n times on one operation, and four more operations after that. We have 1 + 1 + n*1 + 4 = n + 6. So, push_back runs with complexity O(n).
+
+search : two operations then a while loop which can go up to n times, a comparison (we assume the comparison fails so that the while loop goes on longer) two operations, then one more after the while loop is done. We have 2 + n*(1 + 2) + 1 = n + 5. So, search runs with complexity O(n).

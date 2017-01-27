@@ -1,0 +1,12 @@
+dog
+cat
+monkey
+camel
+dolphin
+duck
+bird
+giraffe
+hippopotamus
+horse
+zebra
+yak
